@@ -11,7 +11,7 @@ To run the chat server, navigate to the src/server/ directory and run: node inde
 
 To run the node server, run: npm start command
 
-<img src="screenshot.png" height="450" width="300">
+<img src="screenshot.PNG" height="450" width="900">
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
