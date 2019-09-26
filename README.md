@@ -1,3 +1,18 @@
+Install following packages on windows 10:
+
+npm i create-react-app -g
+
+npx create-react-app chats
+
+npm install express && npm install socket.io && npm install material-ui --save-dev
+
+
+To run the chat server, navigate to the src/server/ directory and run: node index.js
+
+To run the node server, run: npm start command
+
+<img src="screenshot.png" height="450" width="300">
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
@@ -66,3 +81,6 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 ### `npm run build` fails to minify
 
 This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+
+### Youtube link
+https://www.youtube.com/watch?v=hiiaHyhhwBU
